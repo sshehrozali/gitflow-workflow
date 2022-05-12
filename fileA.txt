@@ -1,2 +1,2 @@
 featrure 1
-feature 2 wip
+feature 2
